@@ -1,6 +1,4 @@
-ASSIGNMENT 6 - June 24 2022<br/>
-
-ASSIGNMENT 5 - June 17 2022<br/>
+Version 2 - June 17 2022<br/>
 
 -- SCRIPT UPDATE --<br/>
 The relative path to the script file with respect to the JAR file is script. Provide the script as
@@ -40,7 +38,7 @@ FileHandler:<br/>
 To add support for more conventional file formats, we created a new implementation of FileHandler
 called GenericFileHandler, which uses Java's ImageIO library.
 
-ASSIGNMENT 4 - June 10 2022<br/>
+Version 1 - June 10 2022<br/>
 
 -- DESIGN OVERVIEW -- <br/>
 Main method:<br/>
