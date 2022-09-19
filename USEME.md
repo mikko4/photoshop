@@ -1,4 +1,4 @@
-ASSIGNMENT 6 - June 24 2022<br/>
+Version 3 - June 24 2022<br/>
 Running the program:
 
 - To run the program with the default GUI view, run the JAR file in the res/ folder without any
@@ -35,7 +35,7 @@ Modifying images:<br/>
   negative value darkens
   it.
 
-ASSIGNMENT 5 - June 17 2022<br/>
+Version 2 - June 17 2022<br/>
 Running the program:<br/>
 To run the program in interactive mode (user-entered commands), simply run the program without
 any command line arguments. To run the program with a script file, as input, provide the -file flag
