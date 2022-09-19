@@ -1,0 +1,30 @@
+load sky.png sky
+blur sky sky-blur
+sharpen sky sky-sharp
+sepia sky sky-sepia
+grayscale sky sky-gray
+vertical-flip sky sky-vert
+horizontal-flip sky sky-horiz
+red-component sky sky-red
+green-component sky sky-green
+blue-component sky sky-blue
+value-component sky sky-value
+luma-component sky sky-luma
+intensity-component sky sky-intensity
+brighten 30 sky sky-bright
+brighten -30 sky sky-dark
+save sky-blur ../scriptOut/sky-blur.png
+save sky-sharp ../scriptOut/sky-sharp.png
+save sky-sepia ../scriptOut/sky-sepia.png
+save sky-gray ../scriptOut/sky-gray.png
+save sky-vert ../scriptOut/sky-vert.png
+save sky-horiz ../scriptOut/sky-horiz.png
+save sky-red ../scriptOut/sky-red.png
+save sky-green ../scriptOut/sky-green.png
+save sky-blue ../scriptOut/sky-blue.png
+save sky-value ../scriptOut/sky-value.png
+save sky-luma ../scriptOut/sky-luma.png
+save sky-intensity ../scriptOut/sky-intensity.png
+save sky-bright ../scriptOut/sky-bright.png
+save sky-dark ../scriptOut/sky-dark.png
+quit
